@@ -451,3 +451,4 @@ st.markdown("""
     ⚕️ This tool is for informational purposes only and does not replace medical advice.
 </div>
 """, unsafe_allow_html=True)
+
